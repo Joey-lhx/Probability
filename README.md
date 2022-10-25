@@ -1,4 +1,3 @@
 # Probability
-Hi,there.
-This is my probability theory study notes. 
-Hope this can help. xD
+Hi,there, this is my probability theory study notes and hope this can help
+
